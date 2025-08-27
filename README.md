@@ -22,19 +22,12 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 
-## 🔨 Featured Projects
-- 🧠 **pacavita-ai** → [link] – AI project for [short description].  
-- 🛡️ **securecodescan** → [link] – Tool for scanning vulnerabilities in code.  
-- 🔍 **phishcheck** → [link] – Detects phishing websites using ML.  
 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giuseppe552&show_icons=true&theme=dark)
 
 
-## 🏆 Security Practice
-- TryHackMe Rank: coming soon
-- CTF challenges: working on HackTheBox / picoCTF  
 
 
 📫 **Contact**: contact.giuseppe00@gmail.com

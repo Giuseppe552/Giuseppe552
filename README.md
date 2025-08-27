@@ -4,7 +4,7 @@
 🎓 Mathematics graduate with a strong interest in **AI, software engineering, and cybersecurity**.  
 💻 Building projects in **Python, JavaScript, and offensive security tools**.  
 🔐 Currently learning penetration testing, exploit development, and web app security.  
-🌍 Open to **remote roles** in data analysis, AI engineering, or cybersecurity.  
+🌍 Open to **roles** in data analysis, AI engineering, or cybersecurity.  
 
 
 ## 🚀 Skills & Tools

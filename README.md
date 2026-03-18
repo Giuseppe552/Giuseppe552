@@ -12,10 +12,10 @@ Four projects, one thread: measuring what an adversary can learn — about your 
 
 **[ε-tx](https://github.com/Giuseppe552/epsilon-tx)** — Cryptocurrency privacy analysis. Information-theoretic bounds on what blockchain observers learn. 8 attack surfaces, 4 adversary models, Boltzmann entropy, inverse-OSPEAD ring construction. 8.7k lines, 340 tests.
 
-**[degauss](https://github.com/Giuseppe552/degauss)** — Identity attack surface reduction. 16-command CLI: scan brokers, score exposure, social engineering playbook, supply chain analysis, SERP forensics, legal request generation, removal verification with regulatory escalation, continuous monitoring. 9k lines, 253 tests.
+**[degauss](https://github.com/Giuseppe552/degauss)** — Identity attack surface reduction. Scans 35+ platforms for your accounts, verifies which are yours, filters false positives, gives direct delete/privatise links. Tor-routed scanning, census-backed exposure scoring, social engineering playbook, legal request generation with regulatory escalation. 11k lines, 303 tests.
 
 ---
 
-56k lines of TypeScript. 1,174 tests. Everything is MIT.
+58k lines of TypeScript. 1,224 tests. Everything is MIT.
 
 [giuseppegiona.com](https://giuseppegiona.com)
